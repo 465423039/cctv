@@ -1,0 +1,69 @@
+{
+	"nav":{
+		"slide":[{"id":100,"txt":"推荐"},{"id":0,"txt":"新闻"},{"id":101,"txt":"时政"},{"id":1,"txt":"国内"}
+			,{"id":2,"txt":"国际"},{"id":14,"txt":"经济"},{"id":13,"txt":"农业"},{"id":6,"txt":"军事"}
+			,{"id":102,"txt":"体育"},{"id":8,"txt":"科技"},{"id":10,"txt":"法制"},{"id":11,"txt":"娱乐"}
+			,{"id":12,"txt":"健康"},{"id":5,"txt":"人物"},{"id":15,"txt":"评论"}],
+		"news":[{"id":0,"txt":"新闻"},{"id":1,"txt":"国内"},{"id":2,"txt":"国际"},{"id":3,"txt":"图片"}
+			,{"id":4,"txt":"视频"},{"id":5,"txt":"人物"},{"id":6,"txt":"军事"},{"id":7,"txt":"专题"}
+			,{"id":8,"txt":"科技"},{"id":9,"txt":"社会"},{"id":10,"txt":"法制"},{"id":11,"txt":"娱乐"}
+			,{"id":12,"txt":"健康"},{"id":13,"txt":"农业"},{"id":14,"txt":"经济"},{"id":15,"txt":"评论"}]
+	},
+	"toutiao": {"id":19330,"title":"中共中央政治局召开会议 习近平主持"},
+	"lunbo": [{"src":"./images/lunbo/01.jpg","txt":"【回望欧洲之行】根深叶茂 习近平这样深植中意友谊之树"}
+		,{"src":"./images/lunbo/02.jpg","txt":"【绘心绘语】收藏！习主席访欧“精彩瞬间”"}
+		,{"src":"./images/lunbo/03.jpg","txt":"国防部：台湾前途在于国家统一，台胞福祉系于民族复兴"}
+		,{"src":"./images/lunbo/04.jpg","txt":"VR VLOG | 一分钟速览博鳌亚洲论坛2019年年会开幕式"}
+		,{"src":"./images/lunbo/05.jpg","txt":"快看！博鳌亚洲论坛开幕 董明珠：大家更加有信心了"}
+		,{"src":"./images/lunbo/06.jpg","txt":"【新闻1+1】“曹园”：违建拆除，调查继续"}
+		,{"src":"./images/lunbo/07.jpg","txt":"75分钟的返航！旅客突发疾病 飞机放油39吨备降北京"}
+		,{"src":"./images/lunbo/08.jpg","txt":"【中国梦实践者】谢爱娥：“女船医”上岸，湖波依旧映初心"}
+		,{"src":"./images/lunbo/09.jpg","txt":"天籁童声遇见国学经典，从《论语》唱诵开始"}
+		,{"src":"./images/lunbo/10.jpg","txt":"【NBA】正在视频直播常规赛：骑士VS马刺"}],
+	"tabbar": [{
+		"path":"/tv/2",
+		"text":"排行榜",
+		"bgImg":{
+			"background-image": "url(./images/rank.png)"
+		}
+	},{
+		"path":"/tv/1",
+		"text":"节目单",
+		"bgImg":{
+			"background-image": "url(./images/tvlist.png)"
+		}
+	}, {}, {
+		"path":"/",
+		"text":"看直播",
+		"bgImg":{
+			"background-image": "url(./images/live.png)"
+		}
+	},{
+		"path":"/tv/0",
+		"text":"节目官网",
+		"bgImg":{
+			"background-image": "url(./images/home.png)"
+		}
+	}],
+	"kdlist": {
+		"title":["cctv-1","cctv-2","cctv-3","cctv-4","cctv-5","cctv-5+","cctv-6","cctv-7","cctv-8","cctv-9","cctv-10","cctv-11","cctv-12","cctv-13","cctv-14","cctv-15"],
+		"content":["综合","财经","综艺","中文国际","体育","体育赛事","电影","军事·农业","电视剧","记录","科教","戏曲","社会与法","新闻","少儿","音乐"],
+		"excon":[{
+			"src":"./images/thankMyhome.png","con":"","css":["datu"]
+		}, {
+			"src":"","con": "上电视","css":["special"]
+		}, {
+			"src":"./images/cctvHot.png","con": "央视看点","css":["special"]
+		}, {
+			"src":"./images/face-to-face.png","con": "","css":["xiaotu"]
+		}, {
+			"src":"","con": "找栏目","css":["special"]
+		}, {
+			"src":"./images/voiceDesk.png","con": "总台之声","css":["special"]
+		}, {
+			"src":"./images/talk.png","con": "","css":["xiaotu"]
+		}, {
+			"src":"","con": "搜片库","css":["special"]
+		}]
+	}
+}

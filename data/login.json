@@ -1,0 +1,5 @@
+{
+	"icon": [{"src":"./images/tv/qq.png","txt":"QQ登录"}
+		,{"src":"./images/tv/sina.png","txt":"微博登录"}
+		,{"src":"./images/tv/zhifubao.png","txt":"支付宝登录"}]
+}

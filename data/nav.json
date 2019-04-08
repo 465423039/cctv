@@ -1,0 +1,6 @@
+{
+	"top": [{"path":"/tv/1","src":"./images/tv/program.png","title":"节目单"}
+		,{"path":"/tv/2","src":"./images/tv/hot.png","title":"央视热榜"}
+		,{"path":"/see","src":"./images/tv/see.png","title":"央视看点"}
+		,{"path":"/login","src":"./images/tv/me.png","title":"个人中心"}]
+}
